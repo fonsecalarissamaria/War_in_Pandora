@@ -1,5 +1,9 @@
 # ⚔️ War in Pandora 
 
+<p align="center">
+  <img src="print_war.png" alt="War in Pandora">
+</p>
+
 O mundo de **Pandora** enfrenta tempos de conflito entre os povos **Ya’nki** e **Chi’ni**. Em uma missão secreta, os **Chi’ni** enviaram **balões espiões** (`v_O_v`) para monitorar o território inimigo. No entanto, os **Ya’nki** identificaram os objetos voadores e enviaram **caças de combate** (`|-T-|`), equipados com bombas de detonação por afastamento, para derrubá-los.  
 
 Os **balões espiões** registram imagens do território antes de serem abatidos e enviam as fotos para a **base de observação** dos Chi’ni. Essas imagens podem revelar **instalações militares estratégicas** ou **áreas irrelevantes**. Para avaliar a importância das capturas, cada foto recebe um índice numérico: **quanto maior o valor, mais relevante é a informação obtida**.  
