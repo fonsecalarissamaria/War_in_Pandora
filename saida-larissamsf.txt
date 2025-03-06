@@ -1,0 +1,111 @@
+====> COMPILANDO: larissamsf
+
+## COMPILANDO SUBMISSAO DO ALUNO: /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src
+   > removendo .o pre-existentes 
+  > compilando
+.[2023-04-17T09:26:17.011533].
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration lista.c -o lista.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration retangulo.c -o retangulo.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration circulo.c -o circulo.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration main.c -o main.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration arq_svg.c -o arq_svg.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration linha.c -o linha.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration texto.c -o texto.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration fila.c -o fila.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration balao.c -o balao.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration forma.c -o forma.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration bomba.c -o bomba.o
+gcc -c -ggdb -O0 -std=c99 -fstack-protector-all -Werror=implicit-function-declaration caca.c -o caca.o
+gcc -o ted  -O0 lista.o retangulo.o circulo.o main.o arq_svg.o linha.o texto.o fila.o balao.o forma.o bomba.o caca.o -lm
+.[2023-04-17T09:26:17.693720].
+====> TESTANDO: larissamsf
+
+===== EXECUTANDO TESTES: 
+    > dir_tst:/home/larissa-fonseca/workspace/starting-c/script/t
+    > dir saida: /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o
+    > prog: /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src/ted
+    > arqgeo: 01-caca-fotos.geo
+    > ecpm: False
+    > comVias: False
+    > comBd: False
+   > removendo arquivos  pre-existentes: /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o  *.txt 
+
+   > removendo arquivos  pre-existentes: /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o  *.svg 
+
+   > arq =  /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos.geo
+>> /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script/t  -o /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o -f 01-caca-fotos.geo   
+
+.[2023-04-17T09:26:17.694930].
+Sufixo Completo: 01-caca-fotos
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos.geo aberto com sucesso.
+ponteiro para qry NULO
+   > nomearq: 01-caca-fotos 
+
+   dirqry: /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos  qry_ptrn: /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos/*.qry  #qrys: 4 
+>> /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script/t  -o /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o -f 01-caca-fotos.geo    -q 01-caca-fotos/sem-f-dl.qry
+
+.[2023-04-17T09:26:17.698848].
+Sufixo Completo: 01-caca-fotos-sem-f-dl
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos/sem-f-dl.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script/t  -o /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o -f 01-caca-fotos.geo    -q 01-caca-fotos/ac-d-dl.qry
+
+.[2023-04-17T09:26:17.703706].
+Sufixo Completo: 01-caca-fotos-ac-d-dl
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos/ac-d-dl.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script/t  -o /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o -f 01-caca-fotos.geo    -q 01-caca-fotos/er-a-dl.qry
+
+.[2023-04-17T09:26:17.708146].
+Sufixo Completo: 01-caca-fotos-er-a-dl
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos/er-a-dl.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script/t  -o /home/larissa-fonseca/workspace/starting-c/script/alunos/larissamsf/o -f 01-caca-fotos.geo    -q 01-caca-fotos/ac-a-dl.qry
+
+.[2023-04-17T09:26:17.711952].
+Sufixo Completo: 01-caca-fotos-ac-a-dl
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script/t/01-caca-fotos/ac-a-dl.qry aberto com sucesso.
+id do texto J: 170 FontFamily dele: sans
+
+>>
+>> Arquivos SVG produzidos
+>>
+
+Numero de arquivos: 7
+ 01-caca-fotos-ac-a-dl.svg..... 7701
+ 01-caca-fotos-ac-d-dl-dl-b10-f5.svg 3495
+ 01-caca-fotos-ac-d-dl.svg..... 4603
+ 01-caca-fotos-er-a-dl.svg..... 4007
+ 01-caca-fotos-sem-f-dl-dl-b10-f6.svg 49
+ 01-caca-fotos-sem-f-dl.svg.... 4005
+ 01-caca-fotos.svg............. 3695
+:::27555
+
+
+>>
+>> Arquivos TXT produzidos
+>>
+
+Numero de arquivos: 5
+ 01-caca-fotos-ac-a-dl.txt..... 6033
+ 01-caca-fotos-ac-d-dl.txt..... 3799
+ 01-caca-fotos-er-a-dl.txt..... 3510
+ 01-caca-fotos-sem-f-dl.txt.... 3386
+ 01-caca-fotos.txt............. 63
+:::16791
+
+
+>>
+>> Arquivos SVG pequenos
+>>
+
+Arquivos reportados 0
+
+>>
+>> Arquivos TXT pequenos
+>>
+
+Arquivos reportados 0
+================================
+

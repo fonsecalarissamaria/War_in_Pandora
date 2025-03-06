@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+	<rect x="27.700000" y="37.000000" width="5.200000" height="10.600000" style="fill:#ffb380;stroke:#c87137"/>
+	<rect x="19.800000" y="45.000000" width="21.200000" height="37.200000" style="fill:white;stroke:black"/>
+	<rect x="19.800000" y="82.200000" width="21.200000" height="17.200000" style="fill:white;stroke:black"/>
+	<rect x="19.800000" y="56.100000" width="21.200000" height="4.500000" style="fill:red;stroke:red"/>
+	<rect x="19.800000" y="63.000000" width="21.200000" height="4.500000" style="fill:black;stroke:black"/>
+	<circle cx="30.300000" cy="23.300000" r="15.000000" fill="#ffb380" stroke="#c87137"/>
+	<line x1="3.140000" y1="36.400000" x2="18.500000" y2="55.600000" style="stroke:#c87137"/>
+	<line x1="42.300000" y1="55.600000" x2="69.100000" y2="37.800000" style="stroke:#c87137"/>
+	<line x1="25.300000" y1="99.800000" x2="18.800000" y2="145.500000" style="stroke:#c87137"/>
+	<line x1="36.200000" y1="101.100000" x2="45.800000" y2="145.400000" style="stroke:#c87137"/>
+	<line x1="30.400000" y1="91.000000" x2="30.400000" y2="99.000000" style="stroke:black"/>
+	<text anchor="middle" x="36.120000" y="8.300000" fill="blue" stroke="" style="font-size:25; font-family:sans-serif; font-weight:normal" transform="rotate(0.000000,36.120000,8.300000)">v_O_v</text>
+	<rect x="27.700000" y="187.000000" width="5.200000" height="10.600000" style="fill:#ffb380;stroke:#c87137"/>
+	<rect x="19.800000" y="195.000000" width="21.200000" height="37.200000" style="fill:white;stroke:black"/>
+	<rect x="19.800000" y="232.200000" width="21.200000" height="17.200000" style="fill:white;stroke:black"/>
+	<rect x="19.800000" y="206.100000" width="21.200000" height="4.500000" style="fill:red;stroke:red"/>
+	<rect x="19.800000" y="213.000000" width="21.200000" height="4.500000" style="fill:black;stroke:black"/>
+	<circle cx="30.300000" cy="173.300000" r="15.000000" fill="#ffb380" stroke="#c87137"/>
+	<line x1="3.140000" y1="186.400000" x2="18.500000" y2="205.600000" style="stroke:#c87137"/>
+	<line x1="42.300000" y1="205.600000" x2="69.100000" y2="187.800000" style="stroke:#c87137"/>
+	<line x1="25.300000" y1="249.800000" x2="18.800000" y2="295.500000" style="stroke:#c87137"/>
+	<line x1="36.200000" y1="251.100000" x2="45.800000" y2="295.400000" style="stroke:#c87137"/>
+	<line x1="30.400000" y1="241.000000" x2="30.400000" y2="249.000000" style="stroke:black"/>
+	<rect x="27.700000" y="337.000000" width="5.200000" height="10.600000" style="fill:#ffb380;stroke:#c87137"/>
+	<rect x="19.800000" y="345.000000" width="21.200000" height="37.200000" style="fill:white;stroke:black"/>
+	<rect x="19.800000" y="382.200000" width="21.200000" height="17.200000" style="fill:white;stroke:black"/>
+	<rect x="19.800000" y="356.100000" width="21.200000" height="4.500000" style="fill:red;stroke:red"/>
+	<rect x="19.800000" y="363.000000" width="21.200000" height="4.500000" style="fill:black;stroke:black"/>
+	<circle cx="30.300000" cy="323.300000" r="15.000000" fill="#ffb380" stroke="#c87137"/>
+	<line x1="3.140000" y1="336.400000" x2="18.500000" y2="355.600000" style="stroke:#c87137"/>
+	<line x1="42.300000" y1="355.600000" x2="69.100000" y2="337.800000" style="stroke:#c87137"/>
+	<line x1="25.300000" y1="399.800000" x2="18.800000" y2="445.500000" style="stroke:#c87137"/>
+	<line x1="36.200000" y1="401.100000" x2="45.800000" y2="445.400000" style="stroke:#c87137"/>
+	<line x1="30.400000" y1="391.000000" x2="30.400000" y2="399.000000" style="stroke:black"/>
+
+</svg>

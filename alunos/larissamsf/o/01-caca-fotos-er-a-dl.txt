@@ -1,0 +1,42 @@
+Balão de id 10 tirou fotos e inseriu na fila 5.
+            Identificadores e Formas:
+            Retangulo de identificador: 15 Posição Relativa à borda: 30.620000,44.990000
+            Retangulo de identificador: 17 Posição Relativa à borda: 22.720000,52.990000
+            Retangulo de identificador: 18 Posição Relativa à borda: 22.720000,90.190000
+            Retangulo de identificador: 20 Posição Relativa à borda: 22.720000,64.090000
+            Retangulo de identificador: 21 Posição Relativa à borda: 22.720000,70.990000
+            Circulo de identificador: 16 Posição Relativa à borda: 33.220000,31.290000
+            Linha de identificador: 11 Posição Relativa à borda: 6.060000,44.390000
+            Linha de identificador: 12 Posição Relativa à borda: 45.220000,63.590000
+            Linha de identificador: 13 Posição Relativa à borda: 28.220000,107.790000
+            Linha de identificador: 14 Posição Relativa à borda: 39.120000,109.090000
+            Linha de identificador: 19 Posição Relativa à borda: 33.320000,98.990000
+            Texto de identificador: 10 Posição Relativa à borda: 39.040000,16.290000
+Balão de id 10 tirou fotos e inseriu na fila 5.
+            Identificadores e Formas:
+            Retangulo de identificador: 27 Posição Relativa à borda: 30.620000,344.990000
+            Retangulo de identificador: 29 Posição Relativa à borda: 22.720000,352.990000
+            Retangulo de identificador: 30 Posição Relativa à borda: 22.720000,390.190000
+            Retangulo de identificador: 32 Posição Relativa à borda: 22.720000,364.090000
+            Retangulo de identificador: 33 Posição Relativa à borda: 22.720000,370.990000
+            Circulo de identificador: 28 Posição Relativa à borda: 33.220000,331.290000
+            Linha de identificador: 23 Posição Relativa à borda: 6.060000,344.390000
+            Linha de identificador: 24 Posição Relativa à borda: 45.220000,363.590000
+            Linha de identificador: 25 Posição Relativa à borda: 28.220000,407.790000
+            Linha de identificador: 26 Posição Relativa à borda: 39.120000,409.090000
+            Linha de identificador: 31 Posição Relativa à borda: 33.320000,398.990000
+Balão de id 10 tirou fotos e inseriu na fila 5.
+            Identificadores e Formas:
+            Retangulo de identificador: 39 Posição Relativa à borda: 30.620000,644.990000
+            Retangulo de identificador: 41 Posição Relativa à borda: 22.720000,652.990000
+            Retangulo de identificador: 42 Posição Relativa à borda: 22.720000,690.190000
+            Retangulo de identificador: 44 Posição Relativa à borda: 22.720000,664.090000
+            Retangulo de identificador: 45 Posição Relativa à borda: 22.720000,670.990000
+            Circulo de identificador: 40 Posição Relativa à borda: 33.220000,631.290000
+            Linha de identificador: 35 Posição Relativa à borda: 6.060000,644.390000
+            Linha de identificador: 36 Posição Relativa à borda: 45.220000,663.590000
+            Linha de identificador: 37 Posição Relativa à borda: 28.220000,707.790000
+            Linha de identificador: 38 Posição Relativa à borda: 39.120000,709.090000
+            Linha de identificador: 43 Posição Relativa à borda: 33.320000,698.990000
+Girou o Texto de identificador: 48 Ângulo original: 0.000000 Ângulo final: 120.000000
+Caça de identificador: 48 atirou uma bomba de capacidade: A Elementos atingidos:

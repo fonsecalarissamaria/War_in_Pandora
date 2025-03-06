@@ -1,29 +1,44 @@
-# Mundo de Pandora
+# ⚔️ War in Pandora 
 
-O mundo de Pandora vive momentos de tensão entre os povos Ya’nki e Chi’ni. O povo Chi’ni enviou secretamente balões para espionar o território dos Ya’nki. Estes descobriram objetos voadores e enviam caças para derrubá-los via bombas de detonação por afastamento. Entretanto, os balões tiram fotos e enviam-nas para sua base de observação.
+O mundo de **Pandora** enfrenta tempos de conflito entre os povos **Ya’nki** e **Chi’ni**. Em uma missão secreta, os **Chi’ni** enviaram **balões espiões** (`v_O_v`) para monitorar o território inimigo. No entanto, os **Ya’nki** identificaram os objetos voadores e enviaram **caças de combate** (`|-T-|`), equipados com bombas de detonação por afastamento, para derrubá-los.  
 
-As fotos podem retratar desde instalações militares ou logísticas de grande importância até regiões vazias ou pouco relevantes. Por isso, a base avalia cada foto e atribui a ela um número que denota seu grau de importância: quanto maior o número, maior a importância.
+Os **balões espiões** registram imagens do território antes de serem abatidos e enviam as fotos para a **base de observação** dos Chi’ni. Essas imagens podem revelar **instalações militares estratégicas** ou **áreas irrelevantes**. Para avaliar a importância das capturas, cada foto recebe um índice numérico: **quanto maior o valor, mais relevante é a informação obtida**.  
 
-O sensor fotográfico do balão possui uma certa capacidade de observação:
+## 📷 **Capacidade de Observação dos Balões**  
 
-- O raio de abrangência é representado pelo segmento rotulado com a letra **r**.
-- A profundidade (representada pela letra **p**) é a distância abaixo do balão em que o foco da câmera começa a ficar nítido.
-- A profundidade **h** representa a faixa em que o foco continua nítido.
+Cada balão possui um **sensor fotográfico** com um alcance definido por três parâmetros:  
 
-Desta forma, a câmera capturará apenas os elementos que estiverem dentro da região pontilhada em vermelho.
+- **Raio de abrangência** (**r**): determina a largura da região capturada.  
+- **Profundidade inicial** (**p**): define a distância abaixo do balão onde a captura começa a ficar nítida.  
+- **Faixa de foco** (**h**): representa a região onde a imagem continua clara e detalhada.  
 
-### Instruções
+🔴 **A câmera dos balões registra apenas os elementos dentro da área pontilhada em vermelho**, garantindo que informações cruciais sejam transmitidas à base Chi’ni.  
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo "main.py" para visualizar o código relacionado à avaliação das fotos.
-3. Certifique-se de ter todas as dependências instaladas para executar o código corretamente.
-4. Execute o programa e forneça as imagens para avaliação.
-5. Os resultados serão apresentados com a atribuição de números que representam a importância de cada foto.
+## 🏹 **Os Avatares**  
 
-### Contribuições
+Os **Avatares** são representados por **bonecos uniformizados** e desempenham um papel fundamental no desenrolar do conflito. Sua presença pode ser decisiva em momentos estratégicos da guerra.  
 
-Se você deseja contribuir para o projeto Mundo de Pandora, sinta-se à vontade para fazer um fork do repositório e enviar suas sugestões através de pull requests. Sua ajuda é muito bem-vinda!
+---
 
-### Licença
+### **Instruções de Execução**  
 
-Este projeto está sob a licença do MIT.
+1. **Clonar o repositório na sua máquina:**  
+   ```bash
+   git clone git@github.com:fonsecalarissamaria/War_in_Pandora.git
+   ```  
+
+2. **Executar o script para extrair os arquivos e compilar:**  
+   ```bash
+   python3 et.py -Z -c -t
+   ```  
+
+   - O ZIP com os arquivos-fonte será extraído na pasta `alunos/larissamsf/`.  
+   - O Makefile será executado automaticamente.  
+   - Os arquivos de saída serão gerados dentro de `alunos/larissamsf/o/`.  
+
+3. **Verificar as saídas dos testes:**  
+   - Acesse a pasta de saída:  
+     ```bash
+     cd alunos/larissamsf/o/
+     ```  
+   - Os arquivos gerados (SVG, TXT, relatório de saída) estarão disponíveis para análise.
