@@ -18,11 +18,6 @@
 #include "caca.h"
 #include "bomba.h"
 
-/*
-        Aluna: Larissa Maria dos Santos Fonseca 
-        Matrícula: 202200560118
-*/
-
 
 
 typedef struct StNode Node;
